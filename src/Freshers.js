@@ -913,5 +913,25 @@ export const FRESHERS = [
     branch: "CS1",
     about: 'Pata nahi yaar'
         
-  ,}
+  },
+  {
+      entryNum:1190,
+      name: "Raushan kumar",
+      image:'https://drive.google.com/file/d/16_yQ_OZIzMWSZPHgMcYr0L9DvFFmO8oi/view?usp=sharing',
+      about:"Being human",
+      contact:
+      [
+          {
+              id:0,
+              type:'insta',
+              url:'https://www.instagram.com/the_raushan_bhaskar_101/',
+
+          },
+          {
+              id:1,
+              type:'fb',
+              url:'https://www.facebook.com/raushan.bhaskar.1/',
+          }
+        ]
+  },
 ];
